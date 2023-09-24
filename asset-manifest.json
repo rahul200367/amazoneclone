@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/amazoneclone/static/css/main.86882ec1.css",
+    "main.js": "/amazoneclone/static/js/main.b147d493.js",
+    "static/js/787.cde5aef3.chunk.js": "/amazoneclone/static/js/787.cde5aef3.chunk.js",
+    "static/media/slick.svg": "/amazoneclone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/amazoneclone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/amazoneclone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/amazoneclone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/amazoneclone/index.html",
+    "static/media/search-svgrepo-com.svg": "/amazoneclone/static/media/search-svgrepo-com.01da7b90b09620b3b6c61977cfa584e0.svg",
+    "main.86882ec1.css.map": "/amazoneclone/static/css/main.86882ec1.css.map",
+    "main.b147d493.js.map": "/amazoneclone/static/js/main.b147d493.js.map",
+    "787.cde5aef3.chunk.js.map": "/amazoneclone/static/js/787.cde5aef3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86882ec1.css",
+    "static/js/main.b147d493.js"
+  ]
+}
