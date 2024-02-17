@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/amazoneclone/static/css/main.01612333.css",
-    "main.js": "/amazoneclone/static/js/main.85c7b4da.js",
+    "main.css": "/amazoneclone/static/css/main.a3cbdd26.css",
+    "main.js": "/amazoneclone/static/js/main.05e7a009.js",
     "static/media/slick.svg": "/amazoneclone/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/amazoneclone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/amazoneclone/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/amazoneclone/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/amazoneclone/index.html",
     "static/media/search-svgrepo-com.svg": "/amazoneclone/static/media/search-svgrepo-com.01da7b90b09620b3b6c61977cfa584e0.svg",
-    "main.01612333.css.map": "/amazoneclone/static/css/main.01612333.css.map",
-    "main.85c7b4da.js.map": "/amazoneclone/static/js/main.85c7b4da.js.map"
+    "main.a3cbdd26.css.map": "/amazoneclone/static/css/main.a3cbdd26.css.map",
+    "main.05e7a009.js.map": "/amazoneclone/static/js/main.05e7a009.js.map"
   },
   "entrypoints": [
-    "static/css/main.01612333.css",
-    "static/js/main.85c7b4da.js"
+    "static/css/main.a3cbdd26.css",
+    "static/js/main.05e7a009.js"
   ]
 }
